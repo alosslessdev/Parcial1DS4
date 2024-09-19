@@ -13,7 +13,7 @@ namespace Parcial1DS4
     public partial class Form2 : Form
     {
         public Form2(string nombre, string edad, string sexo, string signo, string prediccion, string numeros)
-        {
+        { 
             InitializeComponent();
             label1.Text = nombre;
             label2.Text = edad;
